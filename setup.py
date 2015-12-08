@@ -3,7 +3,7 @@ from distutils.core import setup
 def main():
 
     setup(
-        name = 'tailer3',
+        name = 'tailer-py3',
         packages=['tailer'],
         package_dir = {'':'src'},
         version = open('VERSION.txt').read().strip(),

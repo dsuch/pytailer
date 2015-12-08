@@ -2,6 +2,8 @@
 Tailer
 ======
 
+**Python3-compatible fork of https://pypi.python.org/pypi/tailer**
+
 Python tail is a simple implementation of GNU tail and head. 
 
 It provides 3 main functions that can be performed on any file-like object that supports ``seek()`` and ``tell()``.
@@ -12,8 +14,8 @@ It provides 3 main functions that can be performed on any file-like object that 
 
 It also comes with ``pytail``, a command line version offering the same functionality as GNU tail. This can be particularly useful on Windows systems that have no tail equivalent.
 
-- `Tailer on GitHub <http://github.com/six8/pytailer>`_
-- `Tailer on Pypi <http://pypi.python.org/pypi/tailer>`_
+- `Tailer on GitHub <https://github.com/dsuch/pytailer>`_
+- `Tailer on PyPI <https://pypi.python.org/pypi/tailer-py3>`_
 
 Installation
 ============
